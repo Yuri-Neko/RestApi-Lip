@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps, router }) {
           </motion.main>
         </AnimatePresence>
         <footer className="main-footer">
-          © 2025 - LippWangsaff
+          © 2025 - Obelia Family
         </footer>
       </div>
     </ThemeProvider>
