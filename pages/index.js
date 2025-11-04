@@ -70,8 +70,8 @@ export default function Home({ stats }) {
                                 className={styles.creatorAvatar}
                             />
                         </div>
-                        <h2 className={styles.creatorName}>LippWangsaff</h2>
-                        <p className={styles.creatorRole}>Prompt Engineer</p>
+                        <h2 className={styles.creatorName}>Kyouka De Alger Obelia</h2>
+                        <p className={styles.creatorRole}>Sang Putra Mahkota Dari Sang Kaisar Claude De Alger Obelia</p>
                     </div>
                 </div>
             </div>
